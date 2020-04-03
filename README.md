@@ -1,4 +1,4 @@
-# Mega Wallet - Laravel and Vue.js Wallet App
+# Mega Wallet - A SPA using Laravel and Vue.js
 A single page application made in Laravel and Vue.js
 
 This project has been developed by Anukriti Gupta and Pawan Kumar.
