@@ -33,6 +33,21 @@ The project has following features:
 - Custom APIs used for the communication between Vue Components and Laravel Controllers
 - Sweet Alerts used on success or fail of api requests
 
+**JS Routes (app.js)**
+![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(110).png)
+
+
+
+**APIs used (api.php)**
+![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(111).png)
+
+
+**Vue Components**
+![alt text](https://github.com/anukritigupta24/laravel_project-mega_wallet/blob/gh-pages/screenshots/Screenshot%20(112).png)
+
+
+
+
 
 **Guidelines for using the project**
 - All the logics have been defined based on the assumption that there is one admin present. So after migrating tables, assign any user as admin by changing the value of isAdmin column as 1.
